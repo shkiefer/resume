@@ -1,0 +1,32 @@
+html {
+    font-size: 50%;
+  }
+body {
+    font-family: 'Open Sans','Myriad Pro','Myriad',sans-serif;
+    color: #1D1313;
+    /* font-weight: 300; */
+    margin:0;
+  }
+.container {
+    margin: 0 auto;
+    padding: 0 0 40px 0;
+    background: #fff;
+    border: solid #d22042;
+    border-width: 2px 0 0 0;
+    text-align: left;
+  }
+p {
+    margin: .6em 0 16px;
+    padding: 0;
+    display: block;
+    font-size: 11pt;
+    /* line-height: 24px; */
+  }
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-weight: normal;
+    border-bottom: none;
+  }
