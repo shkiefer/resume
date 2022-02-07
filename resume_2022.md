@@ -2,7 +2,7 @@
 ---------
 
 Phone: (805) 708-4125 | Email: shkiefer@gmail.com | Santa Barbara, CA 93111  
-LinkedIn: [linkedin.com/in/steven-kiefer](https://www.linkedin.com/in/steven-kiefer/)  
+LinkedIn: [linkedin.com/in/steven-kiefer](https://www.linkedin.com/in/steven-kiefer/) | [Resume on Github](https://github.com/shkiefer/resume/blob/main/resume_2022.md)  
 
 ## Summary
 
@@ -30,7 +30,8 @@ Composite structures lead engineer and structural analyst. Responsibilities incl
 **BS, Mechanical Engineering**; University of California, Santa Barbara  (2002)
 
 ### Keywords
-spacecraft, structural analysis, loads & dynamics, deployable structures, composite design and analysis, non-linear dynamics, non-linear simulation, automation, fracture control, design of experiment, structural verification, data analysis, analysis methods development 
+spacecraft, structural analysis, loads & dynamics, deployable structures, composite design and analysis, non-linear dynamics, non-linear simulation, automation, fracture control, design of experiment, structural verification, data analysis, analysis methods development, root cause corrective action lead
+
 
 <hr style="page-break-after: always">
 
@@ -47,3 +48,24 @@ Developed test methods/procedures for composite laminate allowables and sub-asse
 ***Alphastar*** | Long Beach, CA - August 2002 - October 2003   
 Performed analyses using the composite progressive damage analysis software package GENOA. Supported SBIR programs focused on developing analysis methodologies for composite naval ship structures. Compared traditional FE analysis initial and final failure predictions to the progressive damage predictions produced by GENOA for typical naval ship structural joints. Analyzed composite ceramic components exposed to extreme environments. Assisted in presenting analysis results to SBIR-related industry members for the development of new CFCC materials
 
+## Medium Blog Articles
+- [ANSYS in a Python Web App, Part 2: Pre Processing & Solving with PyMAPDL](https://towardsdatascience.com/ansys-in-a-python-web-app-part-2-pre-processing-solving-with-pymapdl-50428c18f8e7)  
+- [ANSYS in a Python Web App, Part 1: Post Processing with PyDPF](https://towardsdatascience.com/ansys-in-a-python-web-app-part-1-post-processing-with-pydpf-44d2fbaa6135)
+- [3D mesh models in the browser using python & dash_vtk](https://towardsdatascience.com/3d-mesh-models-in-the-browser-using-python-dash-vtk-e15cbf36a132)
+- [Make Your Own Video Editor App with Python, Dash, & Moviepy!](https://towardsdatascience.com/make-your-own-video-editor-app-with-python-dash-moviepy-f0dd57c2b68e)
+- [Embed Multiple Dash Apps in Flask with Microsoft Authentication](https://towardsdatascience.com/embed-multiple-dash-apps-in-flask-with-microsoft-authenticatio-44b734f74532)
+- [Energize Your Ansys Dynamic & Mechanical Analyses](https://medium.com/swlh/energize-your-ansys-dynamic-mechanical-analyses-b94c58da9a30)
+- [Ansys Mechanical: All About Joints](https://steve-kiefer.medium.com/ansys-mechanical-all-about-joints-173f1fa40e15)
+- [Computing Mass Properties of Ansys Dynamic Models](https://towardsdatascience.com/computing-mass-properties-of-ansys-dynamic-models-f0d8dacb2d7c)
+  
+## Journal & Conference Publications
+- [***Structural Analysis Methods for the Roll-Out Solar Array***](https://ntrs.nasa.gov/citations/20200002441)  
+  6th AIAA Spacecraft Structures Conference, AIAA SciTech Forum · Jan 11, 2019
+- [***Photogrammetry-Based Analysis of the On-orbit Structural Dynamics of the Roll-Out Solar Array***](https://ntrs.nasa.gov/citations/20200002423)  
+  6th AIAA Spacecraft Structures Conference, AIAA SciTech Forum · Jan 11, 2019
+- [***On-orbit Structural Dynamics Performance of the Roll-Out Solar Array***](https://ntrs.nasa.gov/citations/20190000446)   
+  5th AIAA Spacecraft Structures Conference, AIAA SciTech Forum · Jan 12, 2018
+- [***Commercialization of Deployable Space Systems' roll-out solar array (ROSA) technology for Space Systems Loral (SSL) solar arrays***](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7500723&isnumber=7500496)   
+  IEEE · Mar 5, 2016
+- [***Adhesively Bonded CFRP Tubular Joint Strength***](https://www.nasampe.org/page/searchengine#home/technicalpaperdetails/578ad9ac727949c01e51b6ea/)   
+  SAMPE · Apr 30, 2006
